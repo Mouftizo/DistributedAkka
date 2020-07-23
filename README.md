@@ -1,2 +1,2 @@
 # DistributedAkka
-This project reflects my learnings about Akka. The objective is to have fun. 
+This project is an attempt to have a basic for Akka distributed
